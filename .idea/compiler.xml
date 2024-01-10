@@ -29,26 +29,26 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="spring-framework-in-depth" target="1.5" />
-      <module name="spring-framework-in-depth (1)" target="1.5" />
-      <module name="spring-framework-in-depth (10)" target="1.5" />
-      <module name="spring-framework-in-depth (11)" target="1.5" />
-      <module name="spring-framework-in-depth (12)" target="1.5" />
-      <module name="spring-framework-in-depth (13)" target="1.5" />
-      <module name="spring-framework-in-depth (14)" target="1.5" />
-      <module name="spring-framework-in-depth (15)" target="1.5" />
-      <module name="spring-framework-in-depth (16)" target="1.5" />
-      <module name="spring-framework-in-depth (17)" target="1.5" />
-      <module name="spring-framework-in-depth (18)" target="1.5" />
-      <module name="spring-framework-in-depth (19)" target="1.5" />
-      <module name="spring-framework-in-depth (2)" target="1.5" />
-      <module name="spring-framework-in-depth (3)" target="1.5" />
-      <module name="spring-framework-in-depth (4)" target="1.5" />
-      <module name="spring-framework-in-depth (5)" target="1.5" />
-      <module name="spring-framework-in-depth (6)" target="1.5" />
-      <module name="spring-framework-in-depth (7)" target="1.5" />
-      <module name="spring-framework-in-depth (8)" target="1.5" />
-      <module name="spring-framework-in-depth (9)" target="1.5" />
+      <module name="spring-framework-in-depth" target="11" />
+      <module name="spring-framework-in-depth (1)" target="11" />
+      <module name="spring-framework-in-depth (10)" target="11" />
+      <module name="spring-framework-in-depth (11)" target="11" />
+      <module name="spring-framework-in-depth (12)" target="11" />
+      <module name="spring-framework-in-depth (13)" target="11" />
+      <module name="spring-framework-in-depth (14)" target="11" />
+      <module name="spring-framework-in-depth (15)" target="11" />
+      <module name="spring-framework-in-depth (16)" target="11" />
+      <module name="spring-framework-in-depth (17)" target="11" />
+      <module name="spring-framework-in-depth (18)" target="11" />
+      <module name="spring-framework-in-depth (19)" target="11" />
+      <module name="spring-framework-in-depth (2)" target="11" />
+      <module name="spring-framework-in-depth (3)" target="11" />
+      <module name="spring-framework-in-depth (4)" target="11" />
+      <module name="spring-framework-in-depth (5)" target="11" />
+      <module name="spring-framework-in-depth (6)" target="11" />
+      <module name="spring-framework-in-depth (7)" target="11" />
+      <module name="spring-framework-in-depth (8)" target="11" />
+      <module name="spring-framework-in-depth (9)" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
