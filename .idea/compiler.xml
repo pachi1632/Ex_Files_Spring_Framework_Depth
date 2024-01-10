@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-framework-in-depth (19)" />
+        <module name="spring-framework-in-depth (5)" />
+        <module name="spring-framework-in-depth (4)" />
+        <module name="spring-framework-in-depth (7)" />
+        <module name="spring-framework-in-depth (6)" />
+        <module name="spring-framework-in-depth (9)" />
+        <module name="spring-framework-in-depth (8)" />
+        <module name="spring-framework-in-depth (10)" />
+        <module name="spring-framework-in-depth (11)" />
+        <module name="spring-framework-in-depth (12)" />
+        <module name="spring-framework-in-depth (13)" />
+        <module name="spring-framework-in-depth (14)" />
+        <module name="spring-framework-in-depth (1)" />
+        <module name="spring-framework-in-depth (15)" />
+        <module name="spring-framework-in-depth (16)" />
+        <module name="spring-framework-in-depth (3)" />
+        <module name="spring-framework-in-depth (17)" />
+        <module name="spring-framework-in-depth" />
+        <module name="spring-framework-in-depth (2)" />
+        <module name="spring-framework-in-depth (18)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring-framework-in-depth" target="1.5" />
+      <module name="spring-framework-in-depth (1)" target="1.5" />
+      <module name="spring-framework-in-depth (10)" target="1.5" />
+      <module name="spring-framework-in-depth (11)" target="1.5" />
+      <module name="spring-framework-in-depth (12)" target="1.5" />
+      <module name="spring-framework-in-depth (13)" target="1.5" />
+      <module name="spring-framework-in-depth (14)" target="1.5" />
+      <module name="spring-framework-in-depth (15)" target="1.5" />
+      <module name="spring-framework-in-depth (16)" target="1.5" />
+      <module name="spring-framework-in-depth (17)" target="1.5" />
+      <module name="spring-framework-in-depth (18)" target="1.5" />
+      <module name="spring-framework-in-depth (19)" target="1.5" />
+      <module name="spring-framework-in-depth (2)" target="1.5" />
+      <module name="spring-framework-in-depth (3)" target="1.5" />
+      <module name="spring-framework-in-depth (4)" target="1.5" />
+      <module name="spring-framework-in-depth (5)" target="1.5" />
+      <module name="spring-framework-in-depth (6)" target="1.5" />
+      <module name="spring-framework-in-depth (7)" target="1.5" />
+      <module name="spring-framework-in-depth (8)" target="1.5" />
+      <module name="spring-framework-in-depth (9)" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
